@@ -1,0 +1,16 @@
+{
+  "name": "list-scripts",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "list-scripts": "./index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Ryan Gaus <rsg1egoman@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "read-pkg-up": "^2.0.0"
+  }
+}
