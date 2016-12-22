@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 "use strict";
 const readPackageJson = require('read-pkg-up');
 const chalk = require('chalk');
